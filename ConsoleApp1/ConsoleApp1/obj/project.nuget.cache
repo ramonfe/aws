@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxDmMNUZ1ssYICUdqHeHuT6CtnNiOSnUdFMYOKer8hzyPnWTpv4zRhYzos/oB3v9ZL6UsgzAXwwTebxlbGp/jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\virfelix\\OneDrive - Carl Zeiss AG\\Desktop\\MyProjects\\aws\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\virfelix\\.nuget\\packages\\awssdk.core\\3.5.1.18\\awssdk.core.3.5.1.18.nupkg.sha512",
+    "C:\\Users\\virfelix\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.0.20\\awssdk.dynamodbv2.3.5.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

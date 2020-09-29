@@ -1,0 +1,17 @@
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AmazonDynamoDB.exe.config
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AmazonDynamoDB.exe
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AmazonDynamoDB.pdb
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AWSSDK.Core.dll
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AWSSDK.Core.pdb
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AWSSDK.Core.xml
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.pdb
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\obj\Debug\AmazonDynamoDB.csprojAssemblyReference.cache
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\obj\Debug\AmazonDynamoDB.FrmDynamoDB.resources
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\obj\Debug\AmazonDynamoDB.Properties.Resources.resources
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\obj\Debug\AmazonDynamoDB.csproj.GenerateResource.cache
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\obj\Debug\AmazonDynamoDB.csproj.CoreCompileInputs.cache
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\obj\Debug\AmazonDynamoDB.csproj.CopyComplete
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\obj\Debug\AmazonDynamoDB.exe
+C:\Users\virfelix\Downloads\AmazonDynamoDB\AmazonDynamoDB\obj\Debug\AmazonDynamoDB.pdb

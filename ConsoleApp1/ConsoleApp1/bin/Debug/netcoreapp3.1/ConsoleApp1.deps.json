@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.5.0.20"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.5.1.18": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.1.18"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.5.0.20": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.18"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.0.20"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.5.1.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wf+7yiBmYtiMyCUDMSnbQPkGbfB0Qc1fMldmD5dT+BQcuXDQ4LKzg4OciSCMmHeTDiFOaWS/w9hgch1BGEu5yg==",
+      "path": "awssdk.core/3.5.1.18",
+      "hashPath": "awssdk.core.3.5.1.18.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.5.0.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YW/HOd21mmra3a4c05BDEdZKIPmnf/7s3n5BNJ6rJjoBnVfLfZHJChwAQtNy+R0WYQbfBtfWOZPI//jWKSYwng==",
+      "path": "awssdk.dynamodbv2/3.5.0.20",
+      "hashPath": "awssdk.dynamodbv2.3.5.0.20.nupkg.sha512"
+    }
+  }
+}
